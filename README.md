@@ -10,6 +10,11 @@ Swagger를 활용하여 API목록을 제공한다.
  - Gradle : 5.6
  - Swagger : 2.9.2
  
+## 도입 과정
+ - 라이브러리 추가 : io.springfox
+ - SwaggerConfig 설정
+ - Swagger API 활용
+ 
 ## 확인 기능
  - API의 명세의 표현가능 범위
  	- URI
